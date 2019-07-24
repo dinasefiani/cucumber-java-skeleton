@@ -8,6 +8,14 @@ to install and run Cucumber!
 
 There is a single feature file with two scenarios scenario. The scenarios have several steps...
 
+The feature file can be found in:
+    src/test/resources/io/cucumber/skeleton/login.feature
+    
+The step definitions can be found in:
+    src/test/java/io/cucumber/skeleton/Stepdefs.java
+    
+Finally, the code implementing the feature can be found in: 
+    src/main/java/io/cucumber/skeleton/
 ## Get the code
 
 Git:
